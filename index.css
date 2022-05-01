@@ -1,0 +1,164 @@
+*{
+    padding: 0px
+    margin: 0px
+    font-family:  sans-serif;
+    box-sizing: border-box;
+}header a{
+    color: red;
+   
+}
+.container{
+   padding-left: 8%;
+   padding-right: 8%;
+   box-sizing: border-box;
+   box-sizing: border-box;
+   margin: 10px;
+}
+
+.navbar{
+    height: 12%;
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+.navbar a{
+    width: 30px;
+    margin-left: 150px;
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 2px;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    
+
+}
+.nav li{
+    float: left;
+}
+
+;
+  
+}
+
+.con{
+    box-sizing: border-box;
+    padding: 
+    box-sizing: border-box;
+    display:flex;
+    margin: 2%;
+    
+    
+ }
+.con h2{
+    color: black;
+    font-weight: 100;
+}
+.con h3{
+    color: red;
+    font-size: larger;
+}
+.con p{
+    color: black;
+    font-stretch: semi-condensed;
+    clear: right;
+}
+.con img{
+   margin: 1% 2% 5% 10%;
+   align:right;
+  
+   
+   
+}
+.orient{
+    display: inline-block
+    padding: 0px;
+    margin: 2%;
+}
+.orient h2{
+    margin: 10px;
+    display: block;
+}
+.orient img{
+    margin: 2%;
+    float: left;
+    
+}
+
+}
+.orient h3{
+    font-weight: bold;
+    margin:2%;
+   
+.stories p{
+    
+    
+    font-size: medium;
+}
+.stories h2{
+    float: left;
+}
+.Board{
+    display: flex;
+    margin: 2%;
+}
+
+.Board img
+    margin: 2%;
+}
+.Board h3{
+    float: left;
+}
+.Board p{
+    float: left;
+}
+
+
+
+    .mentors{
+        padding: 0px;
+        display: inline-flex;
+        align-items: center;
+        width: 25%
+        margin: 20px;
+    }
+
+
+    .BIC{
+        padding: 0px
+        margin: 2px
+        display: inline-flex;
+        align-items: center;
+        width: 25%
+
+    }
+    .BIC img{
+        padding: 15px
+        margin: 280px;
+        margin-top: 20%
+    }
+    .In h3{
+color: rgb(223, 22, 22);
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+

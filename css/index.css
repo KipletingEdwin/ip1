@@ -1,0 +1,189 @@
+*{
+    padding: 0px; 
+    font-family:  Helvetica;
+}
+body{
+    overflow-x: hidden;
+}
+
+.mor{
+    color:#EC4067;
+}
+header{
+    justify-content: flex-end;
+    display: flex;
+    padding-top: 20px; 
+  
+}
+header h1{
+    margin-right: auto;
+    font-size: x-small;
+}
+header ul{
+    list-style: none;
+    padding-right: 20px;
+    background-color: blue;
+}
+header ul a{
+    display: inline-block;
+    padding: 10px;
+}
+.button{
+    background-color: #EC4067;
+    padding: 10px;
+    border: none;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+
+.con{
+    box-sizing: border-box;
+    margin: 0px;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    }
+ .Tech{
+    float: left;
+    width: 50%;
+    
+}
+.con h6{
+    color: black;
+    font-size: xx-large;
+    margin-top: 0px;
+
+}
+.con h3{
+    color: red;
+    font-size: larger;
+}
+
+.con p{
+    color: black;
+    font-stretch: semi-condensed;
+    clear: right;
+}
+.con button{
+    margin-bottom: 0px;
+    float: left;
+}
+.pict {
+    width: 50%;
+    padding-left: 0px;
+  
+}
+ .con img{
+        height: 300px;
+        width: auto;
+        }
+ .Mem{
+     width: 100%;
+     height: 300px;
+     display: flex;
+     justify-content: space-between;
+ }
+ .Mem img{
+     height: 100%;
+     padding-bottom: 0px;
+ }
+ .col{
+     float: left;
+     width: 50%;
+ }
+.Mem h2{
+    padding-top: 0px;
+}
+.Board{
+    margin: 0px;
+    height: 300px;
+}
+.meeting{
+    width: 50%;
+    height: 300px;
+}
+.picha img{
+    float: right;
+    height: 300px;
+}
+.Board p{
+    float: left;
+}
+.Graduation{
+    display: flex;
+    justify-content: space-between;
+    height: 300px;
+}
+.Graduation img{
+    height: 300px;
+    width: auto;
+}
+.Grad{
+    width: 50%;
+}
+
+.Graduation img{
+    height: 300px;
+    width: 300px;
+    float: left;
+    padding-bottom: 0px;
+    
+}
+.Ori{
+    float: right;
+    width: 50%;
+   
+}
+
+.mentors{
+        padding: 5px;
+        display: inline-flex;
+        align-items: center;
+        width: 25%;
+        margin: 0px;
+    }
+
+
+.BIC{
+        padding: 0px;
+        margin: 0px;
+        width: 100%;
+        height: 300px;
+        background-color: #EC4067;
+    }
+.textbox{
+        width: 50%;
+        height: 300px;
+        background-color: green;
+    }
+.BIC img{
+    background-color: green;
+    
+    }
+.pic{
+        background-color: purple;
+        width: 50%;
+        height: 300px;
+    }
+    .In h3{
+color: rgb(223, 22, 22);
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+

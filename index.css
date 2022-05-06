@@ -1,63 +1,69 @@
 *{
-    padding: 0px;
-    font-family:sans-serif;
-    
-header a{
-
+    padding: 0px; 
+    margin: 5px;
+    font-family:  Helvetica;
 }
-.container{
-   padding-left: 8%;
-   
-   box-sizing: border-box;
-  
-   margin: 10px;
+.navbar header span{
+    color: orangered;
+    font-family: inherit;
+    font-size: 1rem; 
 }
-
+.navbar header{
+    font-weight: 600;
+    margin-top: 20px;
+}
 .navbar{
-    height: 12%;
-    display: flex;
-    align-items: center;
-    list-style: none;
+    background-color: red;
 }
-.navbar a{
-    width: 30px;
-    margin-left: 150px;
-}
+.navbar ul{
+    float: right;
+    margin-right: 0px; 
+    margin-top: 0px;
+} 
 .navbar ul li{
-    list-style: none;
     display: inline-block;
-    margin: 2px;
+}  
+.button{
+    background-color:red;
+    font-size: 20px;
+    float: right;
+    margin-top: 5px;
+    margin-right: 0px;
 }
 .navbar ul li a{
     text-decoration: none;
     color: black;
-    font-size: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    
-
+    border: 1px solid white;
+    padding: 5px 20px;
+    transition: 0.6s ease;
 }
-.nav li{
-    float: left;
+.navbar ul li a:hover{
+    background-color: white;
 }
-
-
 .con{
     box-sizing: border-box;
     box-sizing: border-box;
-    display:flex;
-    margin: 2%;
-    
-    
- }
+    background-color: yellow;
+    margin: 0px;
+    height: 300px;
+    }
+ .Tech{
+    float: left;
+    width: 50%;
+}
 .con h2{
     color: black;
-    font-weight: 100;
+    font-size: xx-large;
+    margin-top: 0px;
+
 }
 .con h3{
     color: red;
     font-size: larger;
+}
+.con button{
+    margin-bottom: 0px;
+    float: left;
 }
 .con p{
     color: black;
@@ -65,40 +71,44 @@ header a{
     clear: right;
 }
 .con img{
-   margin: 1% 2% 5% 10%;  
+   float: right;
+   height: 300px;
 }
-.orient{
-    display: inline-block;
-    padding: 0px;
-    margin: 2%;
-}
-.orient h2{
-    margin: 10px;
-    display: block;
-}
-.orient img{
-    margin: 2%;
-    float: left;
-    
-}
+ .Mem{
+     background-color: purple;
+     width: 100%;
+     height: 300px;
+ }
+ .Mem img{
+     background-color: blueviolet;
+     height: 200px;
+     width: 200px;
+ }
+ .col{
+     float: left;
+     width: 50%;
+ }
+ .Ori{
+     float: right;
+ }
 
-.orient h3{
-    font-weight: bold;
-    margin:2%;
-   
-.stories p{
-    font-size: medium;
-}
-.stories h2{
-    float: left;
-}
 .Board{
-    display: flex;
-    margin: 2%;
+    margin: 0px;
+    background-color: orangered;
+    height: 300px;
 }
-
+.meeting{
+    float: left;
+    width: 50%;
+    background-color: gray;
+    height: 300px;
+}
 .Board img{
-    margin: 2%;
+    margin: 0px;
+    float: right;
+    background-color: blue;
+    height: 300px;
+    width: 300px;
 }
 .Board h3{
     float: left;
@@ -109,7 +119,7 @@ header a{
 
 
 
-    .mentors{
+.mentors{
         padding: 0px;
         display: inline-flex;
         align-items: center;
@@ -118,7 +128,7 @@ header a{
     }
 
 
-    .BIC{
+.BIC{
         padding: 0px;
         margin: 2px;
         display: inline-flex;
@@ -126,7 +136,7 @@ header a{
         width: 25%
 
     }
-    .BIC img{
+.BIC img{
         padding: 15px;
         margin: 280px;
         margin-top: 20%

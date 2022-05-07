@@ -3,7 +3,8 @@
     font-family:sans-serif;
     
 header a{
-
+color: blackgi;
+}
 }
 .container{
    padding-left: 8%;
@@ -36,13 +37,10 @@ header a{
     align-items: center;
     justify-content: space-between;
     
-
 }
 .nav li{
     float: left;
 }
-
-
 .con{
     box-sizing: border-box;
     box-sizing: border-box;

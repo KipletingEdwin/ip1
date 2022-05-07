@@ -1,53 +1,37 @@
 *{
     padding: 0px;
     font-family:sans-serif;
-    
-header a{
-color: blackgi;
 }
+header{
+    height: 100px;
 }
-.container{
-   padding-left: 8%;
-   
-   box-sizing: border-box;
-  
-   margin: 10px;
+header h1{
+    font-size: medium;
 }
-
-.navbar{
-    height: 12%;
+header ul{
     display: flex;
-    align-items: center;
     list-style: none;
+    float: right;
+    margin-right: 30px;
 }
-.navbar a{
-    width: 30px;
-    margin-left: 150px;
+header ul button{
+    background-color: red;
 }
-.navbar ul li{
-    list-style: none;
-    display: inline-block;
-    margin: 2px;
-}
-.navbar ul li a{
+header ul a{
     text-decoration: none;
     color: black;
-    font-size: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    
-}
-.nav li{
-    float: left;
+    padding: 5px 20px;
 }
 .con{
-    box-sizing: border-box;
-    box-sizing: border-box;
     display:flex;
-    margin: 2%;
-    
-    
+    width: 100%; 
+    height: 350px;
+ }
+ #Tech{
+     width: 50%;
+ }
+ #Seven{
+     width: 50%;
  }
 .con h2{
     color: black;
@@ -63,73 +47,102 @@ color: blackgi;
     clear: right;
 }
 .con img{
-   margin: 1% 2% 5% 10%;  
+   width: auto; 
+   height: 200px;
 }
-.orient{
-    display: inline-block;
-    padding: 0px;
-    margin: 2%;
+.Orient{
+    display: flex;
+    height: 350px;
 }
-.orient h2{
-    margin: 10px;
-    display: block;
+#STO{
+    width: 50%;
+    height: 350px;
 }
-.orient img{
-    margin: 2%;
-    float: left;
-    
-}
-
-.orient h3{
-    font-weight: bold;
-    margin:2%;
-   
-.stories p{
-    font-size: medium;
-}
-.stories h2{
-    float: left;
+#Five{
+    float: right;
+    width: 50%;
+    height: 350px;
+    padding: 20px 0px 10px 30px;
 }
 .Board{
+    width: 100%;
+    height: 350px;
     display: flex;
-    margin: 2%;
 }
-
-.Board img{
-    margin: 2%;
+.meeting{
+    width: 50%;
+    height: 350px;
 }
-.Board h3{
-    float: left;
+.meeting  h3,p,a{
+    padding: 20px;
 }
-.Board p{
-    float: left;
+#Two{
+    width: 50%;
+    float: right;
 }
-
-
-
-    .mentors{
-        padding: 0px;
-        display: inline-flex;
-        align-items: center;
-        width: 25%;
-        margin: 20px;
-    }
-
-
-    .BIC{
-        padding: 0px;
-        margin: 2px;
-        display: inline-flex;
-        align-items: center;
-        width: 25%
-
-    }
-    .BIC img{
-        padding: 15px;
-        margin: 280px;
-        margin-top: 20%
-    }
-    .In h3{
+#Two img{
+    height: 300px;
+}
+.Graduation{
+    display: flex;
+    width: 100%;
+    height: 250px;
+}
+.Day{
+    width: 50%;
+}
+.Party{
+    float: right;
+    width: 50%;
+}
+.Party h3 p a{
+    padding: 20px;
+}
+.Graduation img{
+    height: 250px;
+}
+.Sub{
+    height: 350px;
+}
+.mentors{
+    display: flex;
+    width: 100%;
+}
+.mentors p{
+    font-size: small;
+}
+.Sub h2{
+    font-size: small;
+}
+#Rose{
+    height: 320px;
+}
+#Albert{
+    height: 320px;
+}
+#Raphael{
+    height: 320px;
+}
+#Karimi{
+    height: 320px;
+}
+.Bic{
+ display: flex;
+ width: 100%;
+}
+.Textbox{
+    width: 50%;
+}
+.Nine img{
+height: 300px;
+}
+  
+.BIC img{
+padding: 15px;
+margin: 280px;
+margin-top: 20%
+}
+.In h3{
 color: rgb(223, 22, 22);
 
     }

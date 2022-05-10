@@ -29,9 +29,11 @@ header ul a{
  }
  #Tech{
      width: 50%;
+     margin: 30px;
  }
  #Seven{
      width: 50%;
+     padding-left: 0px;
  }
 .con h2{
     color: black;

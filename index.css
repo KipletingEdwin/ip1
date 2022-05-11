@@ -24,18 +24,17 @@ header ul a{
 }
 .con{
     display:flex;
-    width: 100%; 
+    width: 70%; 
     height: 350px;
  }
  #Tech{
-     width: 50%;
+     width: 40%;
      margin: 30px;
-     background-color: green;
  }
  #Seven{
-     width: 50%;
+     width: 70%;
      padding-left: 0px;
-     background-color: purple;
+    
  }
 .con h2{
     color: black;
@@ -59,19 +58,21 @@ header ul a{
     height: 350px;
 }
 #STO{
-    width: 50%;
+    width: 40%;
     height: 350px;
-}
+} 
 #Five{
     float: right;
-    width: 50%;
-    height: 350px;
+    width: 40%;
+    height: 250px;
     padding: 20px 0px 10px 30px;
+  ;
 }
 .Board{
-    width: 100%;
+    width: 80%;
     height: 350px;
     display: flex;
+    
 }
 .meeting{
     width: 50%;
@@ -89,7 +90,7 @@ header ul a{
 }
 .Graduation{
     display: flex;
-    width: 100%;
+    width: 80%;
     height: 250px;
 }
 .Day{
@@ -110,7 +111,8 @@ header ul a{
 }
 .mentors{
     display: flex;
-    width: 100%;
+    width: 80%;
+    background-color: green;
 }
 .mentors p{
     font-size: small;
@@ -120,6 +122,9 @@ header ul a{
 }
 #Rose{
     height: 320px;
+}
+.text-block{
+  color: white;
 }
 #Albert{
     height: 320px;
@@ -132,10 +137,15 @@ header ul a{
 }
 .Bic{
  display: flex;
- width: 100%;
+ width: 80%;
+ margin-top: 30px;
 }
 .Textbox{
     width: 50%;
+    
+}
+.Textbox p span{
+    color: rgb(160, 48, 7);
 }
 .Nine img{
 height: 300px;

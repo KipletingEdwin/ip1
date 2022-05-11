@@ -4,6 +4,7 @@
 }
 header{
     height: 100px;
+    width: 80%;
 }
 header h1{
     font-size: medium;
@@ -12,7 +13,7 @@ header ul{
     display: flex;
     list-style: none;
     float: right;
-    margin-right: 30px;
+   
 }
 header ul button{
     background-color: red;
@@ -127,12 +128,10 @@ header ul a{
 }
 #Rose{
     height: 320px;
-    background-color: purple;
 }
 
 #Albert{
     height: 320px;
-   background-color: green;
 }
 #Raphael{
     height: 320px;

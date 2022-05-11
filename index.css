@@ -5,6 +5,7 @@
 header{
     height: 100px;
     width: 80%;
+    font-family: nunito;
 }
 header h1{
     font-size: medium;

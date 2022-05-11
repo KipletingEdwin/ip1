@@ -112,10 +112,9 @@ header ul a{
 .mentors{
     display: flex;
     width: 80%;
-    background-color: green;
 }
 .mentors h4{
-    color: white;
+    color: black;
     bottom: 10px;
 }
 .mentors p{

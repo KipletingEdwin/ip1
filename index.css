@@ -127,20 +127,20 @@ header ul a{
 }
 #Rose{
     height: 320px;
-    background-color: yellow;
+    background-color: purple;
 }
 
 #Albert{
     height: 320px;
-    background-color: green;
+   background-color: green;
 }
 #Raphael{
     height: 320px;
-    background-color: orange;
+   
 }
 #Karimi{
     height: 320px;
-    background-color: red;
+    
 }
 .Bic{
  display: flex;

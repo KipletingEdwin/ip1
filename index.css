@@ -114,6 +114,10 @@ header ul a{
     width: 80%;
     background-color: green;
 }
+.mentors h4{
+    color: white;
+    bottom: 10px;
+}
 .mentors p{
     font-size: small;
 }
@@ -123,8 +127,8 @@ header ul a{
 #Rose{
     height: 320px;
 }
-.text-block{
-  color: white;
+#Rose img{
+    background-color: purple;
 }
 #Albert{
     height: 320px;

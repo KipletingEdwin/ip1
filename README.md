@@ -15,11 +15,11 @@ independent project
  - [Licence](#licence)
  - [Authors Info](#Authors-Info)
  ## Description
- <p>This project is a landing page for Moringa School that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studio</p>
+ <p>This project is a landing page for Moringa School that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Moringa School</p>
 [Go Back to the top](#moringa school)
 ## Features
 As a user of the application,you will be able to :
-1. See a description of what the services offered by the studio
+1. See a description of what the scourses offered by Moringa School
 1. Can make inquiry through a form.
 [Go Back to the top]()
 ## Behaviour Driven Development|
@@ -35,7 +35,7 @@ As a user of the application,you will be able to :
  * Access to internet
  ### Installation Process
  ****
-* Clone to thir repo : git clone kipletingedwin.github.io/ip1/
+* Clone to the repo : git clone kipletingedwin.github.io/ip1/
 * Unzip the downloaded files in a folder of choice.
 * Open the index file from the zipped file with any browser.
  ****
@@ -45,13 +45,12 @@ As a user of the application,you will be able to :
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
 * CSS - which was used to style the User Interface.
-* JQUERY - which was used for DOM(Document Object Manipulation) scripts.
-[Go Back to the top](#delani-studio)
+[Go Back to the top](#moringa school)
 ## Known Bugs
-* Mailchimp API does not function correctly as expected.
+* There are no known bugs.
 ## Licence
 MIT License
-Copyright (c) [2019] [Albert Byrone]
+Copyright (c) [2019] [Kipleting Edwin]
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights

@@ -2,8 +2,9 @@
 independent project
 # Moringa School Landing Page
  ## By Kipleting EDwin
-## Screenshot
- ![image](
+## Screenshot    ![Screenshot from 2022-05-16 10-31-31](https://user-images.githubusercontent.com/104434473/168541597-95b0bf1f-7881-45b6-adb1-9469cc5b47dd.png)
+
+ 
  ## Table of Content
  - [Description](#description)
  - [Features](#features)
